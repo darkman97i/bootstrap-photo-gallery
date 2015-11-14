@@ -1,5 +1,5 @@
 # bootstrap-photo-gallery
-Responsive photo gallery using the grid system of Bootstrap and custom jQuery for the modal box. Supports images with different heights and/or with text. Code has been updated to use Bootstrap version 3.3.5.
+Responsive photo gallery and video gallery using the grid system of Bootstrap and custom jQuery for the modal box. Supports images with different heights and/or with text. Code has been updated to use Bootstrap version 3.3.5.
 
 ![alt tag](http://michaelsoriano.com/wp-content/uploads/2013/11/bootstrap-gallery-demo.gif)
 
